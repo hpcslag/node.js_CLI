@@ -1,0 +1,9 @@
+{	
+	"name": "plus",
+  	"version": "0.0.1",
+  	"preferGlobal": "true",
+  	"description": "Quick Build",
+	"bin": {
+    	"plus": "./bin/plus"
+  	}
+}
