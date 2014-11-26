@@ -24,3 +24,10 @@ hello
 #!/usr/bin/env node
 ````
 3.npm link 就能使用了
+
+
+Reference:
+
+http://stackoverflow.com/questions/25333570/npm-package-json-bin-wont-work-on-windows
+
+http://stackoverflow.com/questions/10396305/npm-package-bin-script-for-windows
